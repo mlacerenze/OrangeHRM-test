@@ -1,0 +1,53 @@
+- Requerimientos del proyecto -
+
+1- Se debe validar que el logo "Orange HRM"  de la parte superior 
+siempre sea visible
+
+2- Se debe validar que el campo username (txtUsername) sea visible
+
+3- Se debe válidar que en la parte inferior exista una etiqueta 
+con un texto que diga la version de la pagina "OrangeHRM "
+
+4- Se debe validar que el boton "login" sea visible
+
+Username : Admin
+Password : admin123
+
+- Requerimientos de Chat GPT - 
+1. Prueba de inicio de sesión exitoso: Verificar que los usuarios 
+puedan iniciar sesión correctamente con credenciales válidas.
+
+2. Prueba de inicio de sesión fallido: Confirmar que se manejen 
+correctamente los intentos de inicio de sesión con credenciales 
+inválidas.
+
+3. Prueba de recuperación de contraseña: Asegurarse de que el 
+proceso de recuperación de contraseña funcione correctamente, 
+permitiendo a los usuarios restablecer sus contraseñas de manera 
+segura.
+
+4. Prueba de navegación por el menú principal: Verificar que los 
+enlaces del menú principal redirijan a las páginas correspondientes 
+y que la navegación sea fluida.
+
+5. Prueba de creación de nuevo empleado: Confirmar que los usuarios 
+autorizados puedan agregar nuevos empleados al sistema correctamente.
+
+6. Prueba de búsqueda de empleado: Verificar que la función de 
+búsqueda de empleado devuelva resultados precisos según los criterios 
+proporcionados.
+
+7. Prueba de edición de información de empleado: Asegurar que los 
+usuarios puedan editar la información personal y profesional de un 
+empleado de manera precisa.
+
+8. Prueba de cierre de sesión: Confirmar que los usuarios puedan 
+cerrar sesión correctamente y que la sesión se cierre de manera segura.
+
+9. Prueba de compatibilidad del navegador: Verificar que la aplicación 
+sea compatible con los navegadores web más comunes, como Chrome, 
+Firefox, Edge, etc.
+
+10. Prueba de responsividad: Asegurarse de que la aplicación se vea 
+y funcione correctamente en diferentes dispositivos y tamaños de 
+pantalla, como computadoras de escritorio, tablets y teléfonos móviles.
